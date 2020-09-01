@@ -1,4 +1,4 @@
-# quiz_whiz
+## QUIZ WHIZ
 
 A Flutter Quiz application.
 
